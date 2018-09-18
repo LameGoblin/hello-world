@@ -2,4 +2,4 @@
 Just another repository
 
 Hi Humans!
-I'm LameGoblin, I like Android, gaming and food.
+I'm LameGoblin, I like Html, css and javascript.
